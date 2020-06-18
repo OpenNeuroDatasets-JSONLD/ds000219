@@ -1,0 +1,9 @@
+{
+	"Manufacturer": "Philips",
+	"ManufacturersModelName": "Intera",
+	"MagneticFieldStrength": 3,
+	"PulseSequenceType": "PRESTO",
+	"EchoTime": 0.03,
+	"RepetitionTime": 1.53172,
+	"PhaseEncodingDirection": "i"
+}
