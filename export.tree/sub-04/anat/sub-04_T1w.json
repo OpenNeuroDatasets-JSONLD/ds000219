@@ -1,0 +1,9 @@
+{
+	"Manufacturer": "Philips",
+	"ManufacturersModelName": "Intera",
+	"MagneticFieldStrength": 3,
+	"PulseSequenceType": "T1w SENSE",
+	"EchoTime": 0.0035,
+	"RepetitionTime": 0.009,
+	"PhaseEncodingDirection": "i"
+}
